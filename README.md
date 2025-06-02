@@ -25,4 +25,4 @@
 - final-video.mp4: Final exported video
 
 ### 🔗 Outcome
-The video promotes HydraMate, a smart water bottle, using AI-generated assets and minimal tools—ideal for beginner marketers using AI.
+The video promotes HydraMate, a smart water bottle, using AI-generated assets and minimal tools—ideal for beginner marketers using AI.ai_images:https://github.com/VidyaSriDolai/FUTURE_PE_1/issues/1#issue-3108909685
